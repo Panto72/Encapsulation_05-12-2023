@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Mahabub\employe\employe\bin\Debug\net7.0\employe.exe
+C:\Users\User\Desktop\Mahabub\employe\employe\bin\Debug\net7.0\employe.deps.json
+C:\Users\User\Desktop\Mahabub\employe\employe\bin\Debug\net7.0\employe.runtimeconfig.json
+C:\Users\User\Desktop\Mahabub\employe\employe\bin\Debug\net7.0\employe.dll
+C:\Users\User\Desktop\Mahabub\employe\employe\bin\Debug\net7.0\employe.pdb
+C:\Users\User\Desktop\Mahabub\employe\employe\obj\Debug\net7.0\employe.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Mahabub\employe\employe\obj\Debug\net7.0\employe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Mahabub\employe\employe\obj\Debug\net7.0\employe.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Mahabub\employe\employe\obj\Debug\net7.0\employe.AssemblyInfo.cs
+C:\Users\User\Desktop\Mahabub\employe\employe\obj\Debug\net7.0\employe.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Mahabub\employe\employe\obj\Debug\net7.0\employe.dll
+C:\Users\User\Desktop\Mahabub\employe\employe\obj\Debug\net7.0\refint\employe.dll
+C:\Users\User\Desktop\Mahabub\employe\employe\obj\Debug\net7.0\employe.pdb
+C:\Users\User\Desktop\Mahabub\employe\employe\obj\Debug\net7.0\employe.genruntimeconfig.cache
+C:\Users\User\Desktop\Mahabub\employe\employe\obj\Debug\net7.0\ref\employe.dll
